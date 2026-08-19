@@ -266,5 +266,14 @@
       "You are missing the 'april-update' tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1787130436.02186,
+    "completed_at": 1787130437.910677,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
   }
 ]
