@@ -366,5 +366,14 @@
       "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787374747.522473,
+    "completed_at": 1787374749.8928,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
   }
 ]
