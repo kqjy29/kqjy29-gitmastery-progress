@@ -404,16 +404,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "merge-undo",
-    "started_at": 1787378078.792358,
-    "completed_at": 1787378082.538182,
-    "comments": [
-      "It appears the merge commits are still in the history of the 'main' branch. This shouldn't be the case",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "branch-rename",
     "started_at": 1787583619.291736,
     "completed_at": 1787583621.141148,
